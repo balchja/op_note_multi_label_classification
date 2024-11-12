@@ -1,2 +1,43 @@
 # ufl_op_note_multi_label_classification
 Companion code to "Large Language Models for Multi-label Document Classification for Surgical Concepts in Exploratory Laparotomy Operative Notes"
+
+# ufl_op_note_multi_label_classification
+
+Companion code to "Large Language Models for Multi-label Document Classification for Surgical Concepts in Exploratory Laparotomy Operative Notes"
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Introduction
+This project provides a framework for multi-label document classification using large language models. We use the data from the [Exploratory Laparotomy Project](https://github.com/ufl-prismap/exploratory-laparotomy-project) to train and evaluate models for classifying surgical concepts in exploratory laparotomy operative notes.
+
+## Features
+- Multi-label classification   
+- Iterative stratification of data for training and evaluation
+- Baseline comparison to BoW and tf-idf models
+- Fine-tuning and inference code for Longformer and Llama 3.2 models
+- Evaluation script for model performance
+
+
+## Installation
+To install the necessary dependencies, run the following command:
+
+## Usage
+To run the classification model, use the following command:
+
+Toy dataset provided: `op_note_sample.csv`
+
+## Contributing
+Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) for more information.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+For questions or feedback, please contact [Your Name](mailto:jeremy.balch@surgery.ufl.edu).
