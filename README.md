@@ -22,7 +22,7 @@ This project provides a framework for multi-label document classification using 
 - Iterative stratification of data for training and evaluation
 - Baseline comparison to BoW and tf-idf models
 - Fine-tuning and inference code for Longformer and Llama 3.2 models
-- Evaluation script for model performance
+- Evaluation script for visualization of model performance 
 
 
 ## Installation
@@ -36,8 +36,5 @@ Toy dataset provided: `op_note_sample.csv`
 ## Contributing
 Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) for more information.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
-For questions or feedback, please contact [Your Name](mailto:jeremy.balch@surgery.ufl.edu).
+For questions or feedback, please contact [Jeremy Balch](mailto:jeremy.balch@surgery.ufl.edu).
