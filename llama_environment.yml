@@ -1,4 +1,4 @@
-name: llm
+name: op_note
 channels:
   - conda-forge
   - bioconda
@@ -171,4 +171,3 @@ dependencies:
       - urllib3==2.2.2
       - wrapt==1.16.0
       - yarl==1.9.4
-prefix: /home/sasank.desaraju/.conda/envs/llm

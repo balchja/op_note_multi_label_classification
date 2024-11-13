@@ -26,7 +26,17 @@ This project provides a framework for multi-label document classification using 
 
 
 ## Installation
-To install the necessary dependencies, run the following command:
+To install the necessary dependencies
+
+1. Ensure that you have Conda installed on your system
+
+2. Navigate into the project directory and run the following command:
+
+`conda env create -f environment.yml`
+
+This will create a conda environment called `op_note`.
+
+3. Activate the environment by entering `conda activate op_note`.
 
 ## Usage
 To run the classification model, use the following command:
