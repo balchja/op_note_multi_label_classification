@@ -10,8 +10,6 @@ Companion code to "Large Language Models for Multi-label Document Classification
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
