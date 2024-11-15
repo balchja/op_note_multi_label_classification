@@ -62,8 +62,5 @@ Toy dataset provided: `op_note_sample.csv`
     4. On the same terminal, activate the conda env (`conda activate op_note`) and run `python 04_llama_model.py`.
 </details>
 
-## Contributing
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) for more information.
-
 ## Contact
 For questions or feedback, please contact [Jeremy Balch](mailto:jeremy.balch@surgery.ufl.edu).
