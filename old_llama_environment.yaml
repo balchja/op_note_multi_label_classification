@@ -1,4 +1,5 @@
 # name: llm
+# Sasank made this one "old" and made llama_environment.yml by exporting his most recent conda env.
 channels:
   - anaconda
   - conda-forge
@@ -175,4 +176,3 @@ dependencies:
       - watchdog==4.0.1
       - wrapt==1.16.0
       - yarl==1.9.4
-prefix: /home/sasank.desaraju/.conda/envs/llm
