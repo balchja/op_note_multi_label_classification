@@ -11,7 +11,7 @@ from llama_index.llms.ollama import Ollama
 from pydantic import BaseModel, Field, ValidationError
 from tqdm import tqdm
 
-from instructions.tasks5 import get_tasks
+from instructions.tasks import get_tasks
 
 # TODO: Need to include a JSON instruction guide thing after the task.
 # This is to include all the prompting for outputting proper JSON.
